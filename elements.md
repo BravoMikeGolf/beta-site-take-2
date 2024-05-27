@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Elements
-image: assets/images/pic01.jpg
+title: The only app that challenges you to take control of your own improvement
+description: Lorem ipsum dolor est
+image: assets/images/near_hole.jpg
 nav-menu: true
 ---
 

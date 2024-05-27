@@ -1,0 +1,17 @@
+{
+    "liveServer.settings.root": "/_site",
+    "liveServer.settings.port": 4000,
+    "liveServer.settings.host": "localhost",
+    "liveServer.settings.watchFiles": [
+        "**/*.html",
+        "**/*.css",
+        "**/*.js",
+        "**/*.md"
+    ],
+    "liveServer.settings.ignoreFiles": [
+        "**/.vscode/**",
+        "**/*.scss",
+        "**/*.sass"
+    ],
+    "liveServer.settings.donotShowInfoMsg": true
+}

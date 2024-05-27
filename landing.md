@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: "I really only used my previous golf app for vanity, to say look how far I hit that drive!"
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 
+image: assets/images/billy_dooks.jpg
 nav-menu: true
 ---
 
